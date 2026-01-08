@@ -69,10 +69,6 @@ The live application may or may not work depending on **available API quota**.
 
 ---
 
-## 📌 Resume / LinkedIn One-Liner
-
-Built an AI-assisted structural defect detection system using Gemini Vision and prompt engineering to analyze construction images and generate professional inspection reports with severity, cost, and remediation insights.
-
 ---
 
 ## 🔗 Repository Link
